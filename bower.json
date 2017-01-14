@@ -1,0 +1,31 @@
+{
+  "name": "ionic-cloud-bower",
+  "description": "Ionic Cloud Client for Bower",
+  "version": "0.14.1",
+  "main": "dist/bundle/ionic.cloud.min.js",
+  "authors": [
+    "Eric Bobbitt <eric@ionic.io>",
+    "William Pelrine <rudy@ionic.io>",
+    "Dan Imhoff <dan@ionic.io>"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "Ionic",
+    "ionic",
+    "cloud",
+    "client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyss/ionic-cloud-bower.git"
+  },
+  "homepage": "https://github.com/gyss/ionic-cloud-bower",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
