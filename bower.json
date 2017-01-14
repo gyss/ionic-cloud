@@ -2,7 +2,7 @@
   "name": "ionic-cloud-bower",
   "description": "Ionic Cloud Client for Bower",
   "version": "0.14.1",
-  "main": "dist/bundle/ionic.cloud.min.js",
+  "main": "dist/ionic.cloud.min.js",
   "authors": [
     "Eric Bobbitt <eric@ionic.io>",
     "William Pelrine <rudy@ionic.io>",
